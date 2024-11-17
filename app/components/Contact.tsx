@@ -15,7 +15,7 @@ const Contact = () => {
               <IoMailUnreadOutline size={30} /> hafizaayeshaakbar717@gmail.com
             </div>
             <div className='flex gap-3 items-center' data-aos="zoom-in-up">
-              <BsTelephone size={30} /> 03137383732
+              <BsTelephone size={30} /> 03022111782
             </div>
             <div className='space-y-8'>
               <div className='flex flex-col gap-1' data-aos="zoom-in-up">
