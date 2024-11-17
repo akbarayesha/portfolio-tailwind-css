@@ -4,7 +4,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div id="hero" className='min-h-screen bg-no-repeat bg-[url(/profile.png)] bg-cover sm:bg-center sm:pt-10 md:bg-center rounded-half '
+    <div id="hero" className='min-h-screen bg-no-repeat bg-[url(/a.jpg)] bg-cover sm:bg-center sm:pt-10 md:bg-center rounded-half '
     style={{backgroundSize: "25%", backgroundPosition: "left 100px top 100px",}}
     >
      
